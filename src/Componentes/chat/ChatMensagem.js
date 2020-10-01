@@ -4,7 +4,7 @@ import { InputGroup, Input, InputGroupAddon, Button } from 'reactstrap'
 const ChatMensagem = props => {
     return (
         <div className="chat-mensagem">
-            {/* <hr /> */}
+            <hr />
             <InputGroup>
                 <Input placeholder="Digite sua mensagem"/>
                 <InputGroupAddon addonType="append">

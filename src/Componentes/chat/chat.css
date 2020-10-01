@@ -1,6 +1,6 @@
 .chat-conteudo{
     display: grid;
-    grid-template-rows: 80px auto 40px;
+    grid-template-rows: 80px auto 80px;
    
     padding: 10px;
     height: calc(100vh - 100px);
