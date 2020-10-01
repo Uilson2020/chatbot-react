@@ -1,0 +1,27 @@
+.chat-conteudo{
+    display: grid;
+    grid-template-rows: 80px auto 40px;
+   
+    padding: 10px;
+    height: calc(100vh - 100px);
+}
+
+.chat-header{
+    text-align: center;
+    /* background: rgb(156, 143, 143); */
+    
+}
+
+.chat-conversa{
+    /* background-color: #f1f1f1;
+    position: relative;
+    height: 100%; */
+    
+    
+}
+
+.chat-mensagem{
+    /* background: rgb(231, 235, 241);
+    bottom: 0;
+    position: relative; */
+}
